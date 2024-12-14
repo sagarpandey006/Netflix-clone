@@ -16,31 +16,47 @@ A fully responsive and visually appealing clone of the Netflix homepage, built u
 ## 🚀 How to Run
 
 1. Clone the repository:
+   
    ```bash
    git clone https://github.com/sagarpandey006/Netflix-clone.git
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
+   
     cd netflix-clone
 
-3. Open the index.html file in any web browser:
+5. Open the index.html file in any web browser:
+
     On Windows: Double-click the file.
+
     On Mac/Linux: Use open index.html or xdg-open index.html.
+
+---
 
 ## 📂 Folder Structure
 
 netflix-clone/
+
 ├── index.html        # Main HTML file
+
 ├── style.css         # Main CSS file
-└── assets/           # Folder for images and other assets
-└── README.md         # file to make things readable
+
+├── assets/           # Folder for images and other assets
+
+└── README.md         # File to make code easy to understand
+
+
+---
 
 ## ✨ Technologies Used
 
-HTML5 for structuring the content.
-CSS3 for styling and layout.
-Media Queries for responsiveness.
+- HTML5 for structuring the content.
+- CSS3 for styling and layout.
+- Media Queries for responsiveness.
+
+---
 
 ## 🙌 Author
 
 👤 Sagar Pandey
+
 Feel free to reach out for feedback
